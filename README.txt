@@ -1,4 +1,4 @@
-=== Gravity Forms Webhook Signature add-on ===
+=== Webhook Signature add-on for Gravity Forms ===
 Contributors: danielboven
 Tags: gravity, forms, verify, webhook, request, signature, header
 Tested up to: 5.4

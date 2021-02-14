@@ -1,7 +1,8 @@
 <?php
 /**
- * Plugin Name: Gravity Forms Webhook Signature add-on
+ * Plugin Name: Webhook Signature add-on for Gravity Forms
  * Description: Add a signature HTTP header to webhook requests to prevent man-in-the-middle and replay attacks.
+ * Text Domain: gf-webhook-signature
  * Version: 1.0
  * Author: Daniel Boven
  * Author URI: https://daanboven.com/
