@@ -3,6 +3,7 @@ Contributors: danielboven
 Tags: gravity, forms, verify, webhook, request, signature, header
 Tested up to: 5.4
 Stable tag: 5.4.4
+Author URI: https://daanboven.com
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
