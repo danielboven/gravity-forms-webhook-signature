@@ -1,8 +1,10 @@
 === Webhook Signature add-on for Gravity Forms ===
 Contributors: danielboven
 Tags: gravity, forms, verify, webhook, request, signature, header
-Tested up to: 5.4
-Stable tag: 5.4.4
+Tested up to: 5.6
+Stable tag: 1.0
+Requires at least: 4.0
+Requires PHP: 7.0
 Author URI: https://daanboven.com
 License: MIT
 License URI: https://opensource.org/licenses/MIT
