@@ -58,7 +58,7 @@ function chunk_split (body, chunklen, end) { // eslint-disable-line camelcase
 An alternative is to create a multiline string containg the public key. In that case the `chunk_split()` function is not necessary.
 
 2. Moreover, `json_encode()` is a function which converts the object into a string with the same character encoding as the PHP function [`json_encode`](https://www.php.net/manual/en/function.json-encode.php) does. Visit [this page](https://stackoverflow.com/a/56647087/7346359) for more information. Using the following function takes care of that:
-```
+```javascript
 function json_encode(s) {
   //         goal: use a regex to simulate PHP json_encode
   // regex source: https://github.com/titarenko/json_encode/blob/master/index.js
